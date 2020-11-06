@@ -1,5 +1,5 @@
 # React-Tic-Tac-Toe
-Play here!
+Play here:
 https://intense-fortress-42521.herokuapp.com/
 
 ## Description
